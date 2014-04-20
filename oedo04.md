@@ -62,7 +62,7 @@ allotted-time
 
 # 作ったgem
 
-![](rubygems.png)
+![](rubygems.png){:relative_height="100"}
 
 # rgitlog
 
@@ -89,7 +89,8 @@ allotted-time
 
 # Usage
 
-![](rgitlog.png)
+![](rgitlog.png){:relative_height="100"}
+
 
 # rgitlogができるまで
 
